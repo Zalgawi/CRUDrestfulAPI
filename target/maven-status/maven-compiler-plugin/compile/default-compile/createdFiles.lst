@@ -1,0 +1,9 @@
+com\ts\helpadmin\controller\HelpCardController.class
+com\ts\helpadmin\service\HelpAdminMockService.class
+com\ts\helpadmin\data\HelpCardData.class
+com\ts\helpadmin\service\HelpAdminService.class
+com\ts\helpadmin\view_model\HelpCardVM.class
+com\ts\helpadmin\Application.class
+com\ts\helpadmin\exception\DataNotFoundException.class
+com\ts\helpadmin\model\HelpCard.class
+com\ts\helpadmin\repository\HelpCardRepository.class

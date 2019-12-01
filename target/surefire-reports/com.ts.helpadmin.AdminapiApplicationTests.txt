@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ts.helpadmin.AdminapiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.971 s - in com.ts.helpadmin.AdminapiApplicationTests
